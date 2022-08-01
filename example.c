@@ -3,7 +3,7 @@
 int main() {
   liplock("male","female");
   kiss("male","female");
-  undress("Adithyan","Teena","Churidar","Shirt");
-  strip("Adithyan","Anupama Parameshwaran");
+  undress("Tony Starks","SunnyLeaone","Churidar","Shirt");
+  strip("Tony Starks","Anupama Parameshwaran");
   return 0;
 }
